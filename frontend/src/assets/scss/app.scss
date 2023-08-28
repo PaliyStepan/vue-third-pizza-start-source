@@ -5,3 +5,9 @@
 @import "visually-hidden.scss";
 @import "scaffolding.scss";
 @import "mixins/mixins";
+@import "common.scss";
+
+
+.content {
+  padding-top: 20px;
+}
